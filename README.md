@@ -1,1 +1,1 @@
-# LandSlide-Detection-System
+# Landslide_detectiom
